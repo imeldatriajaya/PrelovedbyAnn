@@ -1,2 +1,2 @@
-# sintak4
+# sintak-tugas4
 Created with CodeSandbox
