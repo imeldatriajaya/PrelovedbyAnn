@@ -6,9 +6,16 @@
 
 form {
   border: 2px solid #94b49f;
-  background-color: #fefbf6;
+  background-color: #cee5d0;
   border-radius: 10px;
   padding: 20px;
   width: 300px;
   margin: auto;
+}
+
+.container {
+  display: flex;
+  background-color: #fefbf6;
+  justify-content: space-between;
+  border: 2px groove;
 }
